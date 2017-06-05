@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ScienceSearch</title>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='OpmaakCSS.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container-fluid" id="Banner">
+        <div class="container-fluid" id="Logo">
+            <img id= logopic src="static/ScienceSearch204_204V2.png">
+
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4" id="Home"><a href="home.html"> Home</a> </div>
+            <div class="col-md-4" id="Search">Search</div>
+            <div class="col-md-4" id="Update">Update</div>
+        </div>
+    </div>
+
+    <div class="container" id="FormParent">
+        <form action="http://127.0.0.1:5000/search" method="POST" name="Formm">
+            <input type="submit">
+
+        <div class="col-md-0" id="buttonDiv">
+            <br>
+            <div id="kaas">
+                <select name="dropdown1">
+                    {% for o in data %}
+                    <option value="{{ o.name }}">{{ o.name }}</option>
+                    {% endfor %}
+                </select>
+
+
+
+            </div>
+        </div>
+
+        <br>
+            Search : <input type="text" name="Search1">
+
+
+        <br id="breakline1">
+        <button class="addbtn" type="button" href="#">+</button>
+
+        <div class="container" id="FormParentHiddden">
+            <div class="col-md-0" id="buttonDiv">
+                <div id="kaas2">
+                <select name="dropdown2">
+                    {% for o in data %}
+                    <option value="{{ o.name }}">{{ o.name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <br><br>
+
+                Search : <input type="text" name="Search2">
+                <button class="addbtn2" type="button" href="#">+</button>
+            <br id="breakline1">
+    </div>
+        <div class="container" id="FormParentHiddden2">
+
+        <div class="col-md-0" id="buttonDiv">
+
+
+            <br>
+            <div id="kaas3">
+                <select name="dropdown3">
+                    {% for o in data %}
+                    <option value="{{ o.name }}">{{ o.name }}</option>
+                    {% endfor %}
+                </select>
+        </div>
+
+        <br><br>
+
+            Search : <input type="text">
+
+
+
+        <br id="breakline1">
+
+    </div>
+        </div>
+        </div>
+             </form>
+    </div>
+    <div id="Text">
+        {% for results in output %}
+        <p class="organism">{{ results }}</p>
+        <p class="summary">Mark Verschuuren, 22-09-1997, a model organism that has Antocyanins.</p>
+        {% endfor %}
+    </div>
+
+
+    <script type=text/javascript src="{{
+            url_for('static', filename='Dropdown.js') }}">
+
+    </script>
+    <script type=text/javascript src="{{
+            url_for('static', filename='showForm.js') }}">
+
+    </script>
+    <script type=text/javascript src="{{
+            url_for('static', filename='CheckboxLimit.js') }}">
+
+    </script>
+
+
+</body>
+</html>

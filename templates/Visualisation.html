@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Science Search</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='OpmaakCSS.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="container-fluid" id="Banner">
+        <div class="container-fluid" id="Logo">
+            <img id= logopic src="static/ScienceSearch204_204V2.png">
+
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4" id="Home"><a href="home.html"> Home</a> </div>
+            <div class="col-md-4" id="Search">Search</div>
+            <div class="col-md-4" id="Update">Update</div>
+        </div>
+    </div>
+    <div id="cy">
+
+    </div>
+
+    <p id="names">Mark</p>
+
+
+
+
+    <div class="phrase">
+    <ul class="items">
+        {% for key in data.items() %}
+            <li class="resultslist" >{{ key }}</li>
+        {% endfor %}
+    </ul>
+    </div>
+
+    <script type=text/javascript src="{{
+            url_for('static', filename='cytoscape.js') }}">
+    </script>
+    <script type=text/javascript src="{{
+            url_for('static', filename='Graph.js') }}">
+    </script>
+
+
+
+
+
+</body>
+</html>
