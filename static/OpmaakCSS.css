@@ -240,6 +240,7 @@
     border: 2px solid green;
     width:800px;
     position: fixed;
+
 }
 .organism{
     font-family: "Arial Black";
@@ -268,5 +269,4 @@ input[type="checkbox"].checkboxkeuze,input[type="checkbox"].checkboxkeuze2,input
   height: 700px;
   display: block;
 }
-
 

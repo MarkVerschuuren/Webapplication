@@ -9,25 +9,23 @@ $('.phrase').each(function codeAddress(){
     $(this).find('li').each(function(){
         var current = $(this);
         if(current.children().size() > 0) {return true;}
-        phrase += $(this).text();
+        phrase += $(this).text()+" ,";
     });
     phrases.push(phrase);
 });
 // note the comma to separate multiple phrases
+//
+var les = phrases.join(" ")
+var les = les.split(",")
 
-var res = phrases[0].split("'");
-var res = res.join("");
-var res = res.split(")").join();
-var res = res.split("(").join();
-var res = res.split(",").join(" ");
-var res = res.split(" ");
 
-var Results = []
-for (i = 1; i < res.length; i += 2) {
-    Results.push(res[i])
-};
+// console.log(phrases)
+// var Results = []
+// for (i = 1; i < res.length; i += 2) {
+//     Results.push(res[i])
+// };
 
-console.log(Results)
+
 
 var cy = cytoscape({
 
@@ -61,19 +59,19 @@ var cy = cytoscape({
 
 });
 
-for(var i = 0; i < res.length; i += 2){
-    console.log(Results[i])
-    if( typeof Results[i] != "undefined")
+for(var i = 0; i < les.length; i ++){
+    console.log(les[i])
+    if( typeof les[i] != "undefined")
         var eles = cy.add([
             {group : "nodes",
-            data: {id: Results[i]},
+            data: {id: les[i]},
             position : {x:200, y: 200}}
         ]
     )
-    if(Results[0] != Results[i])
-    var eles = cy.add([
-        {group: "edges", data:{id: Results[i+1], source: Results[0], target: Results[i]} }
-    ])
+    // if(Results[0] != Results[i])
+    // var eles = cy.add([
+    //     {group: "edges", data:{id: Results[i+1], source: Results[0], target: Results[i]} }
+    // ])
 
 }
 

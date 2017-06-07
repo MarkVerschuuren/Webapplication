@@ -29,15 +29,15 @@
 
     </div>
 
-    <p id="names">Mark</p>
+
 
 
 
 
     <div class="phrase">
     <ul class="items">
-        {% for key in data.items() %}
-            <li class="resultslist" >{{ key }}</li>
+        {% for value in data %}
+            <li class="resultslist" >{{ value }}</li>
         {% endfor %}
     </ul>
     </div>
