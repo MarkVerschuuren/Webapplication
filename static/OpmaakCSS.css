@@ -270,3 +270,7 @@ input[type="checkbox"].checkboxkeuze,input[type="checkbox"].checkboxkeuze2,input
   display: block;
 }
 
+#sunBurst {
+  border:1px
+  solid black;
+}
