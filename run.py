@@ -54,7 +54,7 @@ def queries():
 
 
 
-    
+
 
     # termlist = []
     # term = ""
@@ -89,7 +89,7 @@ def queries():
 def result():
     graaf = {}
 
-    conn = mysql.connector.connect(host="127.0.0.1", user="root", password="usbw", db="test", port=3307)
+    conn = mysql.connector.connect(host="127.0.0.1", user="mysql", password="", db="test", port=3307)
     cursor = conn.cursor()
 
     cursor.execute(
@@ -127,6 +127,14 @@ def result():
     nodes = list(corralatie.keys())
 
     return render_template("Visualisation.html", data=nodes)
+    #Maakt de sunburt aan.
+@app.route('/sunBurst', methods=["GET"])
+def flower():
+
+    return render_template("sunBurst.html")
+
+
+
 
 if __name__ == '__main__':
     app.run()
