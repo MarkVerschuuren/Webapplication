@@ -52,7 +52,11 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, y(d.y)); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
+<<<<<<< HEAD
 d3.json("/static/data1.JSON", function(error, root) {                            //Hier path naar .json file aangeven.
+=======
+d3.json("/static/flare.json", function(error, root) {                            //Hier path naar .json file aangeven.
+>>>>>>> origin/master
   var g = svg.selectAll("g")
       .data(partition.nodes(root))
     .enter().append("g");
