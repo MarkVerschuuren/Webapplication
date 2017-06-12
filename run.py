@@ -57,7 +57,7 @@ def queries():
     amount = "2" # this should be the amount of times the specie was found in a pubmed
 
     return render_template("home.html", text="the amount of articles for " + specie + " is: " + amount, link="to sunburst")
-@app.route('/sunBurst', methods=["GET"])
+@app.route('/sunBurst', methods=["GET"]) #page to sunburst result.
 def flower():
 
     return render_template("sunBurst.html")
