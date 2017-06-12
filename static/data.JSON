@@ -1,1 +1,44 @@
-{"ABC4": {"salt": {"Arabidopsis": {"Thaliana": 1}}, "pH": {"Arabidopsis": {"Thaliana": 1}}}, "HEL6": {"salt": {"Arabidopsis": {"Thaliana": 1}}, "pH": {"Arabidopsis": {"Thaliana": 1}}}, "FOX4": {"salt": {"Arabidopsis": {"Thaliana": 1}}, "pH": {"Arabidopsis": {"Thaliana": 1}}}, "NEE8": {"salt": {"Arabidopsis": {"Thaliana": 1}}, "pH": {"Arabidopsis": {"Thaliana": 1}}}}
+{
+  "name": "kas",
+  "children": [
+    {
+      "name": "HEL6",
+      "children": [
+        {
+          "name": "salt",
+          "size": 15
+        },
+        {
+          "name": "pH",
+          "size": 15
+        }
+      ]
+    },
+    {
+      "name": "FOX4",
+      "children": [
+        {
+          "name": "salt",
+          "size": 15
+        },
+        {
+          "name": "pH",
+          "size": 15
+        }
+      ]
+    },
+    {
+      "name": "NEE8",
+      "children": [
+        {
+          "name": "salt",
+          "size": 15
+        },
+        {
+          "name": "pH",
+          "size": 15
+        }
+      ]
+    }
+  ]
+}

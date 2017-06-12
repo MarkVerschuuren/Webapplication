@@ -16,9 +16,11 @@ text {
 </style>
 <head>
   <title>sun burst</title>
-  <h1>Sunburst van de resultaten:</h1>
+
 </head>
 <body>
+<h1>Sunburst van de resultaten:</h1>
+<a href="http://127.0.0.1:5000"> <h2>back to Home</h2></a>
 <div id=sunBurst>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
@@ -50,7 +52,7 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, y(d.y)); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
-d3.json("/static/jason.json", function(error, root) {                            //Hier path naar .json file aangeven.
+d3.json("/static/data1.JSON", function(error, root) {                            //Hier path naar .json file aangeven.
   var g = svg.selectAll("g")
       .data(partition.nodes(root))
     .enter().append("g");

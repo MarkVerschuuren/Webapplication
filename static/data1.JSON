@@ -1,0 +1,1820 @@
+{
+  "name": "Raphanus",
+  "children": [
+    {
+      "name": "F3H",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    },
+    {
+      "name": "GLUTATHIONE-S-TRANSFERASE",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    },
+    {
+      "name": "PEROXIDASE",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    },
+    {
+      "name": "GLUTATHIONE REDUCTASE",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    },
+    {
+      "name": "DIHYDROFLAVONOL REDUCTASE",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    },
+    {
+      "name": "CYTOCHROME P450",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    },
+    {
+      "name": "FLAVANONE 3-HYDROXYLASE",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    },
+    {
+      "name": "ANTHOCYANIDIN SYNTHASE",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    },
+    {
+      "name": "CHALCONE ISOMERASE",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    },
+    {
+      "name": "DFR",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    },
+    {
+      "name": "CATALASE",
+      "children": [
+        {
+          "size": 15,
+          "name": "CHI"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine ammonia"
+        },
+        {
+          "size": 15,
+          "name": "ferulic acid"
+        },
+        {
+          "size": 15,
+          "name": "(-)-epicatechin"
+        },
+        {
+          "size": 15,
+          "name": "caffeoyl"
+        },
+        {
+          "size": 15,
+          "name": "feruoyl"
+        },
+        {
+          "size": 15,
+          "name": "malonoyl"
+        },
+        {
+          "size": 15,
+          "name": "coumaroyl"
+        },
+        {
+          "size": 15,
+          "name": "F3H"
+        },
+        {
+          "size": 15,
+          "name": "anthocyanidin"
+        },
+        {
+          "size": 15,
+          "name": "dihydroflavonol"
+        },
+        {
+          "size": 15,
+          "name": "flavanone"
+        },
+        {
+          "size": 15,
+          "name": "chalcone"
+        },
+        {
+          "size": 15,
+          "name": "4-coumarate-CoA"
+        },
+        {
+          "size": 15,
+          "name": "cinnamate"
+        },
+        {
+          "size": 15,
+          "name": "phenylalanine"
+        },
+        {
+          "size": 15,
+          "name": "phenolic acids"
+        },
+        {
+          "size": 15,
+          "name": "acylated anthocyanins"
+        },
+        {
+          "size": 15,
+          "name": "glucuronic acid"
+        },
+        {
+          "size": 15,
+          "name": "NADPH"
+        },
+        {
+          "size": 15,
+          "name": "pelargonidin"
+        },
+        {
+          "size": 15,
+          "name": "C"
+        },
+        {
+          "size": 15,
+          "name": "histidine"
+        },
+        {
+          "size": 15,
+          "name": "amino acid"
+        },
+        {
+          "size": 15,
+          "name": "SDS"
+        },
+        {
+          "size": 15,
+          "name": "ABTS"
+        },
+        {
+          "size": 15,
+          "name": "citrate"
+        },
+        {
+          "size": 15,
+          "name": "guaiacol acid"
+        },
+        {
+          "size": 15,
+          "name": "caffeic acid"
+        },
+        {
+          "size": 15,
+          "name": "zearalenone"
+        },
+        {
+          "size": 15,
+          "name": "S"
+        },
+        {
+          "size": 15,
+          "name": "glutathione"
+        },
+        {
+          "size": 15,
+          "name": "superoxide"
+        },
+        {
+          "size": 15,
+          "name": "peroxide"
+        },
+        {
+          "size": 15,
+          "name": "aspartate"
+        },
+        {
+          "size": 15,
+          "name": "alanine"
+        },
+        {
+          "size": 15,
+          "name": "lactate"
+        },
+        {
+          "size": 15,
+          "name": "phenolic"
+        },
+        {
+          "size": 15,
+          "name": "isothiocyanates"
+        },
+        {
+          "size": 15,
+          "name": "glucosinolates"
+        }
+      ]
+    }
+  ]
+}
