@@ -40,12 +40,31 @@ text {
     </div>
 <body>
 <h1>Sunburst van de resultaten:</h1>
+<div id=legend>
+  <h1>Instructions</h1>
+  <p1><b>Sunburst</b></br>
+      A Sunburst is an interactive graph that displays interactions.</br>
+      Slices that have an interaction show the same color.</br>
+      * Every slice is clickable which will zoom to that specific slice.</br>
+      * The circle in the middle is also clickable and zooms out one level.</br></br>
+  </p1>
+  <p2>
+      <b>Data</b></br>
+      Some chemicals are displayed with a letter code.</br>
+      These are the elements from the periodic table.</br></br>
+  </p2>
+  <p3>
+      <b>Refreshing</b></br>
+      This graph is generated trough javascript.</br>
+      To refresh the page use ctrl+f5 instead of ctrl+R.
+  </p3>
+</div>
 <div id=sunBurst>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var width = 960,
-    height = 700,
+var width = 768,                                          //standart sizes: width:960, height:700
+    height = 560,
     radius = Math.min(width, height) / 2;
 
 var x = d3.scale.linear()

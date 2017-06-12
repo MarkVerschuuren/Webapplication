@@ -80,3 +80,13 @@
   height: 700px;
   display: block;
 }
+
+#legend {
+  right: 2%;
+  top: 35%;
+  position: fixed;
+
+  border-size:1px;
+  border-style: solid;
+  border-color: grey;
+}
