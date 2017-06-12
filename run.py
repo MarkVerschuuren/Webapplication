@@ -18,7 +18,7 @@ def queries():
                    "FROM gene, stressaspect") # query for the database
     tree = {} # dictonary, contains the gene as key with the chemicals as value in a list.
     Valuelist = [] # list to put the values of the key, contains chemicals.
-    cursor  =cursor.fetchall()
+    cursor = cursor.fetchall()
     for i, row in enumerate(cursor): # loops over the output for the database, the output is nested.
         if row[0] not in tree.keys(): # row[0] will always be a gene. If its not in the dictonary as key.
             tree[row[0]] = Valuelist # then put the gene in the dictonary and the valuelist as value.

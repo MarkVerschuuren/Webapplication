@@ -3,20 +3,22 @@ import simplejson as json
 import requests
 from Bio import Entrez
 from Bio import Medline
-import MySQLdb as db
+import mysql.connector as db
 import re
 
 
 def search(query):
-    Entrez.email = 'timvandekerkhof@hotmail.com'
-    handle = Entrez.esearch(db='pubmed',
-                            sort='relevance',
-                            retmax='10000',
-                            retmode='xml',
-                            term=query)
-    results = Entrez.read(handle)
-    idlist = results["IdList"]
-    return idlist
+    try:
+        Entrez.email = 'timvandekerkhof@hotmail.com'
+        handle = Entrez.esearch(db='pubmed',
+                                sort='relevance',
+                                retmax='10000',
+                                retmode='xml',
+                                term=query)
+        results = Entrez.read(handle)
+        idlist = results["IdList"]
+        return idlist
+    e
 
 def ncbi_gene(results):
 
@@ -75,9 +77,9 @@ def parse_json(json_obj, termDictonary, pubmedID):
 
 #function to export found data to database
 def exportToDatabase(geneList, speciesList, chemicalList, PMID):
-    data = db.connect(host="localhost",
+    data = db.connector.connect(host="127.0.0.1",
                       user="root",
-                      passwd="blaat1234",
+                      passwd="usbw",
                       db="owe8_1617_gr13")
     cur = data.cursor()
     cur.execute("SELECT max(a.articleID), max(g.geneID), max(gc.geneCollectionID),max(o.organismID), max(oc.organismCollectionID), max(s.stressAspectID),max(sc.stressSituationID) FROM article a, gene g, geneCollection gc, organism o, organismCollection oc, stressAspect s, stressSituation sc")
