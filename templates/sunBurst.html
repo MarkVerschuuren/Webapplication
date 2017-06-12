@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+<html lang="en">
+<meta charset="utf-8">
+<link rel="shortcut icon" href="favicon.ico">
 <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='OpmaakCSS.css') }}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <style>
 
 path {
@@ -15,12 +22,24 @@ text {
 
 </style>
 <head>
-  <title>sun burst</title>
+    <title>Sun Burst</title>
 
 </head>
 <body>
+    <div class="container-fluid" id="Banner">
+        <div class="container-fluid" id="Logo">
+            <img id= logopic src="static/ScienceSearch204_204V2.png">
+
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" id="Home"><a href="http://127.0.0.1:5000"> Back to home</a> </div>
+        </div>
+    </div>
+<body>
 <h1>Sunburst van de resultaten:</h1>
-<a href="http://127.0.0.1:5000"> <h2>back to Home</h2></a>
 <div id=sunBurst>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>

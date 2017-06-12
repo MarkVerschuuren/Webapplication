@@ -14,7 +14,7 @@
     width: 20px;
     padding : 100px;
     border : 2px solid green;
-    position: fixed;
+    position: absolute;
     top : 0.01%;
     left: 0.0525%;
 }
@@ -33,7 +33,7 @@
 
 }
 #logopic{
-    position : fixed;
+    position : absolute;
     top : 1%;
     left : 1%;
     width: 170px;
@@ -79,9 +79,4 @@
   width: 700px;
   height: 700px;
   display: block;
-}
-
-#sunBurst {
-  border:1px
-  solid black;
 }
